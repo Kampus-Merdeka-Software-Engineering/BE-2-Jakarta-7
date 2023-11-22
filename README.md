@@ -13,7 +13,7 @@ Make sure you have the following installed before proceeding:
 
 1. Clone the repository and the database into your server:
    ```bash
-   git clone https://github.com/rifqialamsyh/pamfest_backend.git
+   git clone https://github.com/nama-repo/pamfest_backend.git
    
 2. Navigate to the project directory:
    ```bash
